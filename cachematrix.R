@@ -1,5 +1,6 @@
-##this function is goinng to simplify the way we obtain inverse matrix
+##this function is going to simplify the way we obtain inverse matrix
 ##It will use tha cache method in order to save previuos results
+##If exist previous results it wont calculate againg
 
 ## This function will create the cache matrix
 
